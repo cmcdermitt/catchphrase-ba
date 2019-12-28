@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/catchphrase-ba/static/css/main.27fd15f6.chunk.css",
+    "main.js": "/catchphrase-ba/static/js/main.03ede11c.chunk.js",
+    "main.js.map": "/catchphrase-ba/static/js/main.03ede11c.chunk.js.map",
+    "runtime-main.js": "/catchphrase-ba/static/js/runtime-main.8c40e88f.js",
+    "runtime-main.js.map": "/catchphrase-ba/static/js/runtime-main.8c40e88f.js.map",
+    "static/js/2.24a0d4b5.chunk.js": "/catchphrase-ba/static/js/2.24a0d4b5.chunk.js",
+    "static/js/2.24a0d4b5.chunk.js.map": "/catchphrase-ba/static/js/2.24a0d4b5.chunk.js.map",
+    "index.html": "/catchphrase-ba/index.html",
+    "precache-manifest.b349918f5e076520e5bd9d907429c1b2.js": "/catchphrase-ba/precache-manifest.b349918f5e076520e5bd9d907429c1b2.js",
+    "service-worker.js": "/catchphrase-ba/service-worker.js",
+    "static/css/main.27fd15f6.chunk.css.map": "/catchphrase-ba/static/css/main.27fd15f6.chunk.css.map",
+    "static/js/2.24a0d4b5.chunk.js.LICENSE": "/catchphrase-ba/static/js/2.24a0d4b5.chunk.js.LICENSE",
+    "static/media/buzzer.mp3": "/catchphrase-ba/static/media/buzzer.535a4cf5.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c40e88f.js",
+    "static/js/2.24a0d4b5.chunk.js",
+    "static/css/main.27fd15f6.chunk.css",
+    "static/js/main.03ede11c.chunk.js"
+  ]
+}
